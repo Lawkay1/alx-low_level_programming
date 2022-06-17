@@ -1,6 +1,7 @@
 /*
  * File: 2-print_strings.c
- * Auth: Lawson Ibukun 
+ * Auth: Lawson Ibukun
+ */
 
 #include "variadic_functions.h"
 #include <stdio.h>
